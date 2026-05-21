@@ -99,3 +99,6 @@
 .playername{
     font-size: 20px;
 }
+.customimage{
+    max-width: 128px;
+}
